@@ -1,0 +1,23 @@
+.back{
+
+background-image: url(back4.jpg);
+background-position: center center;
+background-size: cover;
+height: 500px;
+background-repeat: no-repeat;
+margin-bottom: 35px;
+
+
+}
+.img{
+    border-radius: 50%;
+    height: 200px;
+    padding: 20px;
+    width: 170px;
+    height: 150px;
+  
+}
+
+.content{
+    padding: 50px;
+}
